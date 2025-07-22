@@ -1,4 +1,4 @@
-# Desafio Técnico — Indicium
+# Desafio Técnico Indicium
 ### Autor: Sérgio Pedroso
 **Predição de Churn & Análise de Correlações**
 
